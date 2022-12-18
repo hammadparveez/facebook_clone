@@ -1,16 +1,9 @@
-# facebook_clone
+# Facebook Clone App
+<div style="display:flex;">
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/33895363/208306865-fba20e87-0a55-4bbc-addf-5895132d8f64.png" style="height: 400px;"/>
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/33895363/208306869-81bbf264-8056-402f-b6d5-e5af0566825b.png" style="height: 400px;"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/33895363/208306856-1967ef38-670d-419a-87c0-f6ce89a1f7a3.png" style="height: 400px;"/>
+</div>
